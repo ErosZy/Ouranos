@@ -93,6 +93,7 @@ class BaseComponent extends React.component{
 - styles: 可被设置的组件样式
 - props: 可被设置的额外属性
 - letouts: 可被关联的方法
+
 因此我们的一个Ouranos组件在编写时大致如下代码：
 ```javascript
 import BaseComponent from '../BaseComponent'
